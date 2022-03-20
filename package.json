@@ -1,0 +1,14 @@
+{
+  "name": "kekf",
+  "version": "1.0.0",
+  "description": "F for respect.",
+  "main": "index.js",
+  "repository": "https://github.com/spuuntries/kekf",
+  "author": "spuun <kek@spuun.art>",
+  "license": "Apache-2.0",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
